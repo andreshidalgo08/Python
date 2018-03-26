@@ -1,0 +1,26 @@
+GetAsyncKeyState
+    Retrieves the asynch state of a virtual key code.
+
+GetFocus
+    Retrieves the handle of the keyboard focus window associated with the thread that called the method.
+
+GetKeyboardLayout
+    Retrieves the active input locale identifier 
+
+GetKeyboardLayoutList
+    Returns a sequence of all locale ids in the system 
+
+GetKeyboardState
+    Retrieves the status of the 256 virtual keys on the keyboard. 
+
+GetKeyState
+    Retrives the last known key state for a key. 
+keybd_event
+    Simulate a keyboard event 
+
+LoadKeyboardLayout
+    Loads a new locale id 
+
+VkKeyScan
+    Translates a character to the corresponding virtual-key code and shift state.
+
